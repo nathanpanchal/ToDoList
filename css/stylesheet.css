@@ -12,6 +12,6 @@ form {
 .task-name {
 }
 
-.completed {
+.done-true {
     text-decoration: line-through;
 }
